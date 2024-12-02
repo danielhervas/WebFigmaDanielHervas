@@ -8,11 +8,11 @@ export default defineConfig({
     outDir: "docs", // Cambia el directorio de salida
     rollupOptions: {
       input: {
-        main: resolve(__dirname, "./src/index.html"), // Página principal
-        about: resolve(__dirname, "./src/iniciosesion.html"), // Otra página
+        main: resolve(__dirname, "index.html"), // Página principal
+        about: resolve(__dirname, "iniciosesion.html"), // Otra página
         // Añade más entradas si es necesario
       },
     },
   },
-  base: "/FigmaWeb2024/", // Opcional: rutas relativas para mayor compatibilidad
+  base: "/FigmaWeb2024/index.html", // Opcional: rutas relativas para mayor compatibilidad
 });
