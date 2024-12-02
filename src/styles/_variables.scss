@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Jua';
+    src: url('Jua/Jua-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Fuente de Maname */
+  @font-face {
+    font-family: 'Maname';
+    src: url('Maname/Maname-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  /* Mode 1 */
+  /* color */
+  $blanco: #ffffff;
+  $negro: #000000;
+  $secundario: #3e4e62;
+  $soporte: #f9ea47;
+  /* number */
+  $font-size-3: 16px;
+  $font-size-2: 20px;
+  $font-size-4: 32px;
+  $font-size-1: 42px;
+  $font-size-0: 68px;
+  $font-weight-regular: 400;
+  $font-weight-bold: 700;
+  $line-height-3: 22px;
+  $line-height-2: 26px;
+  $line-height-4: 38px;
+  $line-height-1: 48px;
+  $line-height-0: 72px;
+  /* string */
+  $font-family-arial: Arial;
+  $font-family-jua: Jua;
+  $font-family-maname: Maname;
+  /* Mode 1 */
+  /* number */
+  $font-size-5: 10px;
+  $font-size-3: 16px;
+  $font-size-2: 20px;
+  $font-size-10: 21px;
+  $font-size-9: 22px;
+  $font-size-8: 24px;
+  $font-size-7: 27px;
+  $font-size-4: 32px;
+  $font-size-6: 36px;
+  $font-size-1: 42px;
+  $font-size-0: 68px;
+  $font-size-12: 89px;
+  $font-size-11: 134px;
+  $font-size-13: 151px;
+  $font-size-15: 160px;
+  $font-size-14: 319px;
+  $font-weight-regular: 400;
+  $font-weight-bold: 700;
+  $line-height-6: 10px;
+  $line-height-3: 22px;
+  $line-height-2: 26px;
+  $line-height-5: 26px;
+  $line-height-4: 38px;
+  $line-height-1: 48px;
+  $line-height-0: 72px;
+  /* string */
+  $string: String value;
+  /* Definición de fuentes con su familia genérica */
+  $font-family-tipografía-registro-2: Arial, sans-serif;
+  $font-family-tipografía-encabezado: 'Jua', sans-serif;
+  $font-family-tipografía-encabezado-2: 'Jua', sans-serif;
+  $font-family-tipografía-párrafo: 'Jua', sans-serif;
+  $font-family-tipografía-registro: Arial, sans-serif;
+  $font-family-tipografía-botón: 'Maname', sans-serif;
+  
+  
+  $font-height-header: 3rem;
+  
