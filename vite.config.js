@@ -14,5 +14,5 @@ export default defineConfig({
       },
     },
   },
-  base: "/WebFigma/", // Opcional: rutas relativas para mayor compatibilidad
+  base: "/FigmaWeb2024/", // Opcional: rutas relativas para mayor compatibilidad
 });
