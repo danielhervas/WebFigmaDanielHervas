@@ -14,5 +14,5 @@ export default defineConfig({
       },
     },
   },
-  base: "/FigmaWeb2024/index.html", // Opcional: rutas relativas para mayor compatibilidad
+  base: "/WebViajes/", // Opcional: rutas relativas para mayor compatibilidad
 });
